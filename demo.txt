@@ -1,0 +1,5 @@
+https://www.tutorialspoint.com/python/python_dictionary.html
+https://www.hackerrank.com/challenges/python-string-split-and-join/problem
+https://forum.katalon.com/t/opening-of-large-lists-of-urls-in-katalon-recorder-by-uploading-a-url-file-to-the-extension/13583
+https://www.hackerrank.com/challenges/python-string-split-and-join/problem
+https://forum.katalon.com/t/opening-of-large-lists-of-urls-in-katalon-recorder-by-uploading-a-url-file-to-the-extension/13583
